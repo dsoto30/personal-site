@@ -1,0 +1,29 @@
+body {
+    background-color: #F0D9FF;
+}
+hr {
+    border-style: none;
+    height: 2px;
+    width: 10%;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+}
+
+h1 {
+    color: #1F4690;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+
+
+.education {
+    color: red;
+}
+
+.work-exp {
+    color: beige;
+}
