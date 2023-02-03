@@ -1,0 +1,56 @@
+header {
+    text-align: center;
+    background-color: lightblue;
+    color: white;
+    padding: 20px;
+  }
+  
+  .about-me {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .about-me img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .about-me p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: left;
+  }
+  
+  .skills {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: left;
+    margin-top: 20px;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: center;
+    background-color: lightgreen;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  nav li {
+    margin: 0 20px;
+  }
+  
+  nav img {
+    width: 50px;
+    height: 50px;
+  }
+  
